@@ -186,3 +186,4 @@ Sys req:
 References:
 01. [help and download link](https://www.simplymigrate.com/2017/04/11/internet-information-server-iis-node-js-in-producton-iisnode/)
 02. [Scott Hanselman WCAT useage](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
+03. [The actual configuration file](https://github.com/tjanczuk/iisnode/blob/master/src/samples/configuration/web.config)
